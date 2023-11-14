@@ -35,7 +35,7 @@ def main():
     print("Running main")
     no_of_dimensions = 20
     distribution = 'gauss'
-    data_size = 100_000
+    data_size = 10_000
     no_of_queries = 1_000
     no_of_nns = 100
     no_of_ref_points = 0
